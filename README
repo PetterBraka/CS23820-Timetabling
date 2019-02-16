@@ -1,0 +1,10 @@
+This programed is programed and tested with the cygwin(enviroment: 2.11.2, CMake: 3.12.3, Debugger: 8.0.1). The
+C Compiler was gcc on a pc runing CLion (2018.2.6) it included this libraries (stdio.h string.h
+dirent.h sys/stat.h functions.h) in the main file and this libraries in the functions.c (stdlib.h string.h
+stdio.h functions.h).
+This program expects a folder inside this folder with four different files(modules.txt schemes.txt times.txt rooms.txt)
+
+example of how the modules.txt should be(CS23820 1 3L1 1P2)
+example of how the schemes.txt should be(G40F 1 51 3 CS01010 CS01120 CS02320)
+example of how the times.txt should be(Tuesday 9 9 10 11 12 13 14 15 16 17)
+example of how the rooms.txt should be(L 10)
