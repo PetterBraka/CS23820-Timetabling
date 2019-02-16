@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Petter/Documents/Aber/Second year of aber/CS23820/Final-Assignment/functions.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+functions.h
+/cygdrive/c/Users/Petter/Documents/Aber/Second year of aber/CS23820/Final-Assignment/functions.h
+
+/cygdrive/c/Users/Petter/Documents/Aber/Second year of aber/CS23820/Final-Assignment/functions.h
+
